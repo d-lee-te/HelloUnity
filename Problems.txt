@@ -1,0 +1,2 @@
+1. External Code Editor application isn't linked in Path.
+: I'm not gonna deal with this rn. I'm just gonna go ahead and actually edit it by opening it up manually with my version of VS code. No clue why the PATH isn't linked, but I'm not feeling like troubleshooting rn.
