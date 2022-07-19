@@ -1,0 +1,11 @@
+Checkpoint 1; 7/19/22; ~5:00PM
+Added:
+
+- Problems
+: Details what problems I've encountered and how I'm troubleshooting them
+- Changelog
+: Added a changelog because commenting may leave history, but this is easier to read the description of and keep a log of.
+
+Progress:
+- Finished pt.1 & pt.2 of tutorial
+: I've done this stuff once before, so it's not as bad just repeating the steps. The first time around took me longer since I actually had to watch the video and understand what he was saying, but repeating it a second time just became steps.
