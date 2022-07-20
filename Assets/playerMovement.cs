@@ -16,6 +16,8 @@ public class playerMovement : MonoBehaviour
     //I assume C# is object oriented???
     public Rigidbody rb;
 
+    public float forwardForce = 2000f;
+    public float sidewaysForce = 500f;
 
     //Update() is called every frame
 
@@ -33,6 +35,13 @@ public class playerMovement : MonoBehaviour
         If we have 10 frames a second, deltaTime is .1
         If we have 20 frames a second, deltaTime is .05
         */
-        rb.AddForce(0, 0, 2000 * Time.deltaTime);
+        rb.AddForce(0, 0, forwardForce * Time.deltaTime);
+
+        if (Input.GetKey("d"))   {
+            rb.AddForce(sidewaysForce * Time.deltaTime, 0, 0);
+        }
+        if (Input.GetKey("a"))   {
+            rb.AddForce(-sidewaysForce * Time.deltaTime, 0, 0);
+        }
     }
 }

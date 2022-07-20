@@ -1,3 +1,8 @@
+Checkpoint 2; 7/20/22; ~12:10PM
+Progress:
+- Changed color of playerMaterial to different shade of Red
+- Added 0 Friction material to Ground
+
 Checkpoint 1; 7/19/22; ~5:00PM
 Added:
 
