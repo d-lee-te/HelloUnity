@@ -1,3 +1,20 @@
+Checkpoint 3; 7/20/22; 
+Progress:
+- Camera now follows player with offset
+- Edited Changelog for checkpoint 2
+- Added Player Collision detection
+- Added Obstacles tag and Obstacle material
+- Added Obstacles
+- Added Fog
+- Added Drag for movement optimization
+
+
+Checkpoint 2; 7/20/22; ~12:10PM
+Progress:
+- Changed color of playerMaterial to different shade of Red
+- Added 0 Friction material to Ground
+- Added movement for a and d to move left and right respectively
+
 Checkpoint 1; 7/19/22; ~5:00PM
 Added:
 
