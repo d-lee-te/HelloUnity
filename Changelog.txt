@@ -1,4 +1,15 @@
-Checkpoint 4; 7/20/22; ~
+Checkpoint 5; 7/20/22; ~4:00PM
+Progress:
+- Duplicated Level 1 to make Level 2
+- Added Win Screen Transition
+- Created Win Screen Level Script
+- Created a Menu and Credits Scene
+- Created a build of the game
+
+Notes:
+- I'm not dealing with an installer rn
+
+Checkpoint 4; 7/20/22; ~2:30PM
 Progress:
 - Problems document updated
 - Reorganized Assets with folders
