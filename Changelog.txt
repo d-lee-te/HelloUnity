@@ -1,4 +1,12 @@
-Checkpoint 3; 7/20/22; 
+Checkpoint 4; 7/20/22; ~
+Progress:
+- Problems document updated
+- Reorganized Assets with folders
+- Added Dynamic Score Text
+- Added a GameManager Object and Script
+- Added Gameover logic
+
+Checkpoint 3; 7/20/22; ~1PM
 Progress:
 - Camera now follows player with offset
 - Edited Changelog for checkpoint 2

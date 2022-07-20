@@ -1,2 +1,7 @@
-1. External Code Editor application isn't linked in Path.
+It seems my Unity hadn't saved the changes I made for Checkpoint 3 correctly.
+> C4 > The bad news here is that I had pulled from the Repo before I started again, and that should've had the version I pushed out before I took my break. That means myh progress is probably lost. The good news here is that I've done everything here once before, and I can just do everything I was supposed to do in Checkpoint 3 again and squeeze it together with Checkpoint 4.
+
+Archive:
+External Code Editor application isn't linked in Path.
 : I'm not gonna deal with this rn. I'm just gonna go ahead and actually edit it by opening it up manually with my version of VS code. No clue why the PATH isn't linked, but I'm not feeling like troubleshooting rn.
+> C3 > I had to go to preferences and edit the external editor for scripts. It wasn't path'd correctly to anything I guess? Whatever devenv is supposed to be, it doesn't exist. I just set it to open my VSCode.
